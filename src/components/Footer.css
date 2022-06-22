@@ -1,0 +1,45 @@
+.all-browsers {
+    margin: 0;
+    padding: 5px;
+    background-color: lightgray;
+  }
+  
+  .all-browsers > h1, .browser {
+    margin: 10px;
+    padding: 5px;
+  }
+  
+  .browser {
+    background: white;
+  }
+  
+  .browser > h2, p {
+    margin: 4px;
+    font-size: 90%;
+  }
+  
+  .footer {
+    display: flex;
+    flex-direction: column;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+    margin-top: 60px;
+  }
+
+  .link1{
+  
+  
+    margin-left: 590px;
+    text-decoration: none;
+    color: rgba(67, 66, 66, 0.836);
+
+  }
+  .link2{
+    
+  
+    margin-left: 590px;
+    text-decoration: none;
+    color: rgba(67, 66, 66, 0.836);
+
+  }
